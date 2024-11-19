@@ -333,7 +333,7 @@ ul {
 
 .hero {
   background-color: darkgray;
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(Img.jpg);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(https://github.com/Siemensixone1119/web/blob/main/image/format/jpg/hero/Img.jpg?raw=true);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
